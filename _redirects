@@ -1,0 +1,2 @@
+# 直接訪問 /admin 自動到 /admin/
+/admin  /admin/  301
